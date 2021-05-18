@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning all languages
 - 💞️ I’m looking to collaborate on yt, and more apps
-- 📫 How to reach me dsc.gg/rub
+- 📫 How to reach me: https://dsc.gg/hacker
 
 ## ✨ Languages I know ✨
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
